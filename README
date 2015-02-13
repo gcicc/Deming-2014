@@ -1,0 +1,14 @@
+Support materials from Session C: Statistical Simulation In Drug Development
+
+12/8/2014 (Monday) 1:00 PM - 4:00 PM
+
+Dr. Greg Cicconetti, GlaxoSmithKline
+Dr. David Burt, GlaxoSmithKline
+
+Moderator: Kalyan Ghosh
+ 
+Simulation methods have become an increasingly important tool in the search for more efficient clinical trial designs and/or statistical analysis procedures. During our short course we will provide a road map to developing and executing a successful simulation plan and communicating these results with a broader team. We will begin with a survey of problems one might encounter during the design, monitoring and analysis stages of a clinical trial for which a simulation study may provide some insight. We continue with an introduction to standard methods for generating random data. This discussion will include methods to mimic real-world data that do not adhere to standard statistical distributions, methods to introduce correlation among endpoints, parametric and non-parametric bootstrapping techniques, a brief introduction to importance sampling and rejection sampling and the use of sparse historical data to simulate future data. Having established this foundation, we return to some of our motivating problems and discuss their simulation-based solutions in greater depth. This deeper dive will include various approaches to enrollment modeling, simulating data to mimic a cross-over study, simulating data to explore the robustness of an efficacy endpoint to missing data in an outcomes trial and the evaluation of competing statistical methodologies for specific applications. Though some R and SAS® code will be provided to supplement this tutorial, the emphasis will not be on code or syntax.
+
+David Burt (PhD in Statistics from Virginia Polytechnic Institute and State University) has used simulation techniques to evaluate the properties of automatic bandwidth selection procedures in his dissertation work and has experience with PK/PD modeling and simulation as well as clinical trial simulation in the pharmaceutical industry. His other interests include Bayesian predictive methods using network meta-analyses and adaptive clinical trials.
+
+Greg Cicconetti (PhD in Statistics from University of Connecticut) was an Assistant Professor of Statistics at Muhlenberg College before joining GlaxoSmithKline in 2005. In his published research, he used simulation to study point and interval estimation problems following sequential sampling. At GlaxoSmithKline, he has used simulation extensively in support of the design, monitoring, and analysis of clinical trials. Greg has experience working in the cardiovascular, osteoporosis, osteoarthritis therapeutic areas. His other interests include graphics and statistical learning.
